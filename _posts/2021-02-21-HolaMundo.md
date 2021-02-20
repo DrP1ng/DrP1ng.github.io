@@ -7,6 +7,7 @@ tags: [writing]
 ---
 
 
+# Título mas Grande - prueba
 ## Título Grande - Fase
 ### Título Mediano - Uso de herramienta
 #### Título Pequeño - otro título
@@ -29,4 +30,4 @@ contenido
 
 ver más para poner colores
 ```
-imagen: ![website](/assets/img) # sigo la  ruta de la imgen
+imagen: ![website](/assets/imagenes/lab11.jpg) # sigo la  ruta de la imgen. mirar como ver el tamaño de la imagen
