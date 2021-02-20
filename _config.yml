@@ -33,12 +33,12 @@ twitter:
   card: summary
 logo: logo.png
 social:
-  name: Songzi Vong
+  name: Dr. P1ng
   links:
     - https://twitter.com/P1ngDr
     - https://github.com/DrP1ng
 google_site_verification: xxxxx
-lang: en
+lang: es
 
 sass:
   sass_dir: _sass
