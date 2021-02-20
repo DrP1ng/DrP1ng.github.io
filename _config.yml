@@ -1,9 +1,9 @@
 # Setup
-title: Not Pure Poole
-description: A simple, beautiful, and powerful Jekyll theme for blogs
-url: https://vszhub.github.io
+title: Dr. P1ng
+description: CTF Player, Hacker e Investigador de Ciberseguridad
+url: https://drp1ng.github.io
 avatar: /avatar.jpeg
-paginate: 5
+paginate: 8
 permalink: pretty
 cover_image: /bg.jpeg
 
@@ -29,14 +29,14 @@ exclude:
 
 # Optimize Jekyl SEO Tag
 twitter:
-  username: vszhub
+  username: P1ngDr
   card: summary
 logo: logo.png
 social:
   name: Songzi Vong
   links:
-    - https://twitter.com/vszhub
-    - https://github.com/vszhub
+    - https://twitter.com/P1ngDr
+    - https://github.com/DrP1ng
 google_site_verification: xxxxx
 lang: en
 
@@ -47,13 +47,13 @@ sass:
 # Options
 
 # Replace this value and uncomment to enable Google Analytics tracking
-# google_analytics: UA-000000-0
+google_analytics: G-9JKFQV6M4P
 
 # Replace this value and uncomment to enable Disqus
 # disqus: xxxxxx
 
 # Specify the author for blog posts
 author:
-  name: Songzi Vong
-  url: https://github.com/vszhub/
-  email: vszhub@gmail.com
+  name: Dr. P1ng
+  url: https://github.com/DrP1ng/
+#  email: vszhub@gmail.com
