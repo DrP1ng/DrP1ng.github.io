@@ -53,7 +53,7 @@ google_analytics: G-9JKFQV6M4P
 # disqus: xxxxxx
 
 # Specify the author for blog posts
-author:
-  name: Dr. P1ng
-  url: https://github.com/DrP1ng/
-  email: drp1ng@protonmail.com
+#author:
+#  name: Dr. P1ng
+#  url: https://github.com/DrP1ng/
+#  email: drp1ng@protonmail.com
