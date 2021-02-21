@@ -10,6 +10,6 @@
 - title: Youtube
   url: https://www.youtube.com/channel/UCmseoXU1ZZI27pd1l-26C6A
   icon: fab fa-youtube
-- title: HackTheBox
-  url: https://www.hackthebox.eu/profile/209557
-  icon: fas fa-cube
+- title: Guía Hacking
+  url: https://dr-p1ng.gitbook.io/hackdemecum/
+  icon: fas fa-book
