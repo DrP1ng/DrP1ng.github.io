@@ -1,12 +1,15 @@
-#- title: Email
-#  url: mailto://vszhub@gmail.com
-#  icon: fas fa-envelope
+- title: Email
+  url: mailto://drp1ng@protonmail.com
+  icon: fas fa-envelope
 - title: Twitter
   url: https://twitter.com/P1ngDr
   icon: fab fa-twitter
 - title: GitHub
   url: https://github.com/DrP1ng
   icon: fab fa-github
-#- title: HackTheBox
-#  url: la que sea
-#  icon: fas fa-cube
+- title: Youtube
+  url: https://www.youtube.com/channel/UCmseoXU1ZZI27pd1l-26C6A
+  icon: fab fa-youtube
+- title: HackTheBox
+  url: https://www.hackthebox.eu/profile/209557
+  icon: fas fa-cube

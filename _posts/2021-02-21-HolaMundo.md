@@ -4,6 +4,7 @@ author: Dr. P1ng
 date: 2019-08-08 14:10:00 +0800
 categories: [Blogging, Tutorial]
 tags: [writing]
+image: /assets/imagenes/lab11.jpg #No sale, comprobar el tamaño de la imagen
 ---
 
 
