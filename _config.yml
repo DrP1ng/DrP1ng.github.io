@@ -5,7 +5,7 @@ url: https://drp1ng.github.io
 avatar: /avatar.jpeg
 paginate: 8
 permalink: pretty
-cover_image: /bg.jpeg
+cover_image: /fondo.jpeg
 
 # Gems
 plugins:
